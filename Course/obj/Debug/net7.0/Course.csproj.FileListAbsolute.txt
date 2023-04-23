@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Projetos\Course\Course\bin\Debug\net7.0\Course.exe
+C:\Users\Guilherme\Projetos\Course\Course\bin\Debug\net7.0\Course.deps.json
+C:\Users\Guilherme\Projetos\Course\Course\bin\Debug\net7.0\Course.runtimeconfig.json
+C:\Users\Guilherme\Projetos\Course\Course\bin\Debug\net7.0\Course.dll
+C:\Users\Guilherme\Projetos\Course\Course\bin\Debug\net7.0\Course.pdb
+C:\Users\Guilherme\Projetos\Course\Course\obj\Debug\net7.0\Course.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Projetos\Course\Course\obj\Debug\net7.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Projetos\Course\Course\obj\Debug\net7.0\Course.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Projetos\Course\Course\obj\Debug\net7.0\Course.AssemblyInfo.cs
+C:\Users\Guilherme\Projetos\Course\Course\obj\Debug\net7.0\Course.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Projetos\Course\Course\obj\Debug\net7.0\Course.dll
+C:\Users\Guilherme\Projetos\Course\Course\obj\Debug\net7.0\refint\Course.dll
+C:\Users\Guilherme\Projetos\Course\Course\obj\Debug\net7.0\Course.pdb
+C:\Users\Guilherme\Projetos\Course\Course\obj\Debug\net7.0\Course.genruntimeconfig.cache
+C:\Users\Guilherme\Projetos\Course\Course\obj\Debug\net7.0\ref\Course.dll
