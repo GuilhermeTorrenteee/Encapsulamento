@@ -45,8 +45,6 @@ namespace ConsoleApplication2
             conta.Saque(quantia);
             Console.WriteLine("Dados da conta atualizados: ");
             Console.WriteLine(conta);
-
-
         }
     }
 }
